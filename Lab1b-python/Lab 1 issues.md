@@ -1,3 +1,6 @@
+## prelab
+- I am a bit unsure on how to do part 3, I think completing lab 1a and speaking with previous course TA will give me a sense on the type of flow required between prelabs and labs, between different labs, and how much hand-holding is needed.
+
 ### Part 1
 #### first cell
  - There are instructions for where to save files for lab session. I am still not sure how these notebooks will be distributed so I dont know exactly what to put there and I will need to change this later on. **me**
