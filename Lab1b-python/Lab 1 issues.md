@@ -1,7 +1,7 @@
 ### Part 1
 #### first cell
  - There are instructions for where to save files for lab session. I am still not sure how these notebooks will be distributed so I dont know exactly what to put there and I will need to change this later on. **me**
- - Why does the original PDF recomend veiung the csv in vim? **TA**3
+ - Why does the original PDF recomend viewing the csv in vim? **TA**
  
 #### between code cell 13 and 14
  - the way the data is organized overcomplicates things a bit.
