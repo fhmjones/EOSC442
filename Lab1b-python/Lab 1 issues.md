@@ -3,7 +3,7 @@
 
 ### Part 1
 #### first cell
- - There are instructions for where to save files for lab session. I am still not sure how these notebooks will be distributed so I dont know exactly what to put there and I will need to change this later on. **me** - it seems like we will be using a ubc hub for jupyter. once i get a confirmation i can change these instructions to reflect the workflow associated with this hub
+ - There are instructions for where to save files for lab session. I am still not sure how these notebooks will be distributed so I dont know exactly what to put there and I will need to change this later on. **me** *it seems like we will be using a ubc hub for jupyter. once i get a confirmation i can change these instructions to reflect the workflow associated with this hub*
  - Why does the original PDF recomend viewing the csv in vim? **TA**
  
 #### between code cell 13 and 14
